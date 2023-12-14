@@ -1,0 +1,37 @@
+* {
+  background-color: #5e5e5e;
+  font-family: "Courier New", Courier, monospace;
+}
+
+#counterTitle {
+  display: block;
+  font-size: 3em;
+  color: #fff;
+  text-align: center;
+  margin: 0 auto;
+  padding: 10px;
+}
+
+#counterLabel {
+  display: block;
+  text-align: center;
+  font-size: 5em;
+  margin: 50px;
+}
+
+#counterContainer {
+  text-align: center;
+  font-size: 1.5em;
+}
+
+.buttons {
+  color: white;
+  background-color: #1abc9c;
+  padding: 10px 20px;
+  font-size: 1em;
+}
+
+.buttons:hover {
+  background-color: #16a085;
+  cursor: pointer;
+}
